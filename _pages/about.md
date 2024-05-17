@@ -1,8 +1,7 @@
 ---
-layout: about
-title: about
+layout: page
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 ---
 
 <html lang="en">

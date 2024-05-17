@@ -5,7 +5,6 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 ---
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -34,16 +33,14 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 					<font size="3"><span style="color:blue"> <b> Department of Computer Science and Engneering </b> </span>
 					 </font> 
 					 <br><u> <font size="4"><span> 
-						<span style="color:blue"> <b>India Institute of Information Technology Sri City  </font> </b></span>
+						<span style="color:blue"> <b>India Institute of Information Technology Sri City  </b> </span> </font>
 					</u>
 <br>
 				<font size="3"><span style="color:rgb(14, 160, 1)"> 5-days WORKSHOP ON</font>
 					<br>
 					<font size="5"><span style="color:red"> <b>  HPC Synergy: Elevating AI with High-Performance Parallel Computing </br></font>
-						<font size="2"><span style="color:blue"> July 22 - 26, 2024 <br>
-				</div>
-			</div>
-			
+						<font size="2"><span style="color:blue"> July 22 - 26, 2024 
+							<br>
 	  
 
 
